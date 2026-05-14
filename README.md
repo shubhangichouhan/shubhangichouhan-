@@ -1,9 +1,32 @@
-# shubhangichouhan- 
-
-
 <div align="center">
 
-```
+<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Space+Mono&amp;display=swap');
+      .name-main { font-family: 'Playfair Display', serif; font-size: 52px; font-weight: 700; fill: #1D9E75; letter-spacing: 2px; }
+      .name-sub  { font-family: 'Space Mono', monospace; font-size: 13px; fill: #888780; letter-spacing: 6px; }
+      .accent    { font-family: 'Space Mono', monospace; font-size: 11px; fill: #0F6E56; }
+      .dim       { opacity: 0.13; }
+    </style>
+  </defs>
+  <text x="38"  y="50"  class="dim accent">import pandas as pd</text>
+  <text x="38"  y="68"  class="dim accent">import numpy as np</text>
+  <text x="38"  y="86"  class="dim accent">from sklearn import model</text>
+  <text x="380" y="50"  class="dim accent">def predict(X):</text>
+  <text x="380" y="68"  class="dim accent">  return pipeline.fit(X)</text>
+  <text x="380" y="86"  class="dim accent">  # 90% precision ✓</text>
+  <line x1="40" y1="100" x2="640" y2="100" stroke="#1D9E75" stroke-width="0.5" opacity="0.3"/>
+  <text x="340" y="148" class="name-main" text-anchor="middle">Shubhangi Chouhan</text>
+  <line x1="40" y1="158" x2="640" y2="158" stroke="#1D9E75" stroke-width="0.5" opacity="0.3"/>
+  <text x="340" y="173" class="name-sub" text-anchor="middle">DATA SCIENCE &amp; AI · IIIT NAYA RAIPUR</text>
+  <circle cx="40"  cy="129" r="3" fill="#1D9E75" opacity="0.5"/>
+  <circle cx="640" cy="129" r="3" fill="#1D9E75" opacity="0.5"/>
+  <circle cx="40"  cy="158" r="2" fill="#5DCAA5" opacity="0.4"/>
+  <circle cx="640" cy="158" r="2" fill="#5DCAA5" opacity="0.4"/>
+  <rect x="40" y="96" width="6" height="6" fill="#1D9E75" opacity="0.4"/>
+  <rect x="634" y="96" width="6" height="6" fill="#1D9E75" opacity="0.4"/>
+</svg>
 
 ### 🤖 Data Science & AI Engineer · IIIT Naya Raipur · India
 
