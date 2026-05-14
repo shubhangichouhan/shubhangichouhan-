@@ -1,7 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&pause=1000&width=435&lines=Shubhangi+Chouhan" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&size=33&pause=1000&color=822A33&center=true&width=435&lines=Shubhangi+Chouhan" alt="Typing SVG" /></a>
 ### 🤖 Data Science & AI Engineer · IIIT Naya Raipur · India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
